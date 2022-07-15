@@ -18,8 +18,11 @@
  
  - Install Modules
  > npm install 
+ 
  > npm install discord.js
+ 
  > npm install glob
+ 
  > npm install util
 
  - Configure Bot (config.json)
