@@ -2,29 +2,29 @@
 {   
     "server":{
         "name":"Bot Name",
-        "image":"https://cdn.discordapp.com/attachments/985985227283378286/997220555470151740/det1.png",
-        "id":"825522865469259838",
+        "image":"Bot Image",
+        "id":"Server ID",
         "color":"00deff",
         "roles":{
-            "members":"969337432585695252"
+            "members":"MEMBER ROLE ID"
         }
     },
 
     "bot":{
-        "token":"OTk3MzY3MjEyNjU2NTYyMjQ2.G-aA7S.HPMjDynDHwgniaNzVZaZYEXgsASwQu_CseI5cs",
+        "token":"BOT TOKEN",
         "prefix":"!",
-        "id":"997221851245846688"
+        "id":"BOT ID"
     },
 
     "counting":{
-        "members":"969336625492533308",
-        "boosts":"969336703070371960"
+        "members":"Status member channel ID",
+        "boosts":"Status boosts channel ID"
     },
 
     "logs":{
-        "welcome":"969335047918350376",
-        "leave":"969335103757123674",
-        "role":"969335175441944576",
-        "message":"969335224523710507"
+        "welcome":"WELCOME LOGS CHANNEL ID",
+        "leave":"LEAVE LOGS CHANNEL ID",
+        "role":"ROLE LOGS CHANNEL ID",
+        "message":"Message LOGS CHANNEL ID"
     }
 }
