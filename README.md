@@ -26,6 +26,11 @@
  > npm install util
 
  - Configure Bot (config.json)
+ > Bot Invite to server must have checked The options :
+ 
+ > BOT,
+ 
+ > Application.commands
  
  - Run Bot
  > node index.js
