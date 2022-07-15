@@ -1,0 +1,30 @@
+
+{   
+    "server":{
+        "name":"Bot Name",
+        "image":"https://cdn.discordapp.com/attachments/985985227283378286/997220555470151740/det1.png",
+        "id":"825522865469259838",
+        "color":"00deff",
+        "roles":{
+            "members":"969337432585695252"
+        }
+    },
+
+    "bot":{
+        "token":"OTk3MzY3MjEyNjU2NTYyMjQ2.G-aA7S.HPMjDynDHwgniaNzVZaZYEXgsASwQu_CseI5cs",
+        "prefix":"!",
+        "id":"997221851245846688"
+    },
+
+    "counting":{
+        "members":"969336625492533308",
+        "boosts":"969336703070371960"
+    },
+
+    "logs":{
+        "welcome":"969335047918350376",
+        "leave":"969335103757123674",
+        "role":"969335175441944576",
+        "message":"969335224523710507"
+    }
+}
